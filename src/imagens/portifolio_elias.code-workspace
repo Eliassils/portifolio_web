@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../portifolio_elias"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portifolio_elias"
+	}
+}
